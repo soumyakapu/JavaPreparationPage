@@ -1,0 +1,75 @@
+body{
+    background-color:ivory;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding-inline-start: 10%;
+}
+
+.CoreJava{
+    display: inline-block;
+   border: 1px solid gray;
+   padding: auto;
+   background-color:beige;
+}
+.JavaCollections{
+    display: inline-block;
+   border: 1px solid gray;
+   padding: auto;
+   background-color:beige;
+}
+.Java8{
+    display: inline-block;
+   border: 1px solid gray;
+   padding: auto;
+   background-color:beige;
+}
+.Hibernate{
+   display: inline-block;
+   border: 1px solid gray;
+   padding: auto;
+   background-color:gold;
+}
+.SpringFramework{
+    display: inline-block;
+   border: 1px solid gray;
+   padding: auto;
+   background-color:beige;
+}
+.SpringBoot{
+    display: inline-block;
+   border: 1px solid gray;
+   padding: auto;
+   background-color:beige;
+}
+.SpringMvc{
+    display: inline-block;
+    border: 1px solid gray;
+    padding: auto;
+    background-color:beige;
+}
+/* canvas {
+    border: 1px solid black;
+  } */
+
+  .link {
+    position: absolute;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background-color: #f0f0f0;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 75.5%;
+      scroll-padding-block: none;
+      padding: auto;
+  }
+  .link span {
+    transform: rotate(0deg);
+
+  }
